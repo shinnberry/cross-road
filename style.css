@@ -32,8 +32,8 @@ button {
 }
 #controlls {
   position: absolute;
-  min-width: 100%
-  min-height: 100%
+  min-width: 100%;
+  min-height: 100%;
   display: flex;
   align-items: flex end;
   justify content: center;
